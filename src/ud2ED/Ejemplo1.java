@@ -8,6 +8,8 @@ public class Ejemplo1 {
 		}
 		System.out.println("Hasta otra");
 
+		System.out.println("Vale");
+
 	}
 
 }
